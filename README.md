@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Gleydson Rodrigues
+Software Developer at GreenMile | Software Engineer by Federal University of Ceará
+
+Linkedin Badge Gmail Badge
+
+A nice guy
+
 <!--
 **gleydson/gleydson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
