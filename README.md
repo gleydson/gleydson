@@ -1,23 +1,14 @@
-## Gleydson Rodrigues
-🔭 Software Developer
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gleydson%20Rodrigues-844bc9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleydsonsr/)](https://www.linkedin.com/in/gleydsonsr/) 
 [![Gmail Badge](https://img.shields.io/badge/-gleydsonsr@gmail.com-844bc9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gleydsonsr@gmail.com)](mailto:gleydsonsr@gmail.com)
 
+<br/>
 
-A nice guy
+### Hey! Welcome to my profile! How is it going? 👋🥰
 
-<!--
-**gleydson/gleydson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 I’m currently working at [GreenMile](https://greenmile.com/)
+- 💻 ReactJS, React Native, Typescript <3
+- ✨ Learning is continuous and there will always be a next level
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
