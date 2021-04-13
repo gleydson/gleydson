@@ -3,9 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gleydson%20Rodrigues-844bc9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleydsonsr/)](https://www.linkedin.com/in/gleydsonsr/) 
 [![Gmail Badge](https://img.shields.io/badge/-gleydsonsr@gmail.com-844bc9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gleydsonsr@gmail.com)](mailto:gleydsonsr@gmail.com)
 
-<br/>
-
-### Hey! Welcome to my profile! How is it going? 👋🥰
+### Hey! Welcome to my profile! How is it going? 👋
 
 - 🚀 I’m currently working at [GreenMile](https://greenmile.com/)
 - 💻 ReactJS, React Native, Typescript <3
