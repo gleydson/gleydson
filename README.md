@@ -5,7 +5,7 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋
 
-- 🚀 I’m currently working at [GreenMile](https://greenmile.com/)
+- 🚀 I’m currently working at [Stone](https://www.stone.co/br/)
 - 💻 ReactJS, React Native, Typescript <3
 - ✨ Learning is continuous and there will always be a next level
 
